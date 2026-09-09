@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "account": "bolts.app",
+    "appStoreId": "id6757627895",
+    "appStoreUrl": "https://apps.apple.com/app/id6757627895",
+    "site": "boltsapp.app",
+    "voice": "Skater-to-skater. Plain, confident, a little dry. Never corporate, never hype-y, no exclamation marks. Short sentences. Talk about skating first, the app second.",
+    "rules": [
+      "NEVER invent statistics, download counts, user numbers, or research claims. Only use figures pulled from real App Store Connect data.",
+      "Lead with the skating insight; mention BOLTS at most once in the body.",
+      "Captions: hook line, 2-4 short lines of substance, one CTA. Under 150 words.",
+      "CTA rotates: App Store link in bio / try it free / what's your answer (for community posts).",
+      "8-12 hashtags, mixed reach: 3-4 broad, 4-5 mid, 2-3 niche.",
+      "No emoji spam. At most one, and only if it genuinely lands."
+    ],
+    "hashtagPools": {
+      "broad": [
+        "#skateboarding",
+        "#skatelife",
+        "#skateboard",
+        "#skateeverydamnday"
+      ],
+      "mid": [
+        "#skateprogression",
+        "#learntoskate",
+        "#skatetricks",
+        "#skatesession",
+        "#skatepark",
+        "#tricktips"
+      ],
+      "niche": [
+        "#skateboardapp",
+        "#tricklist",
+        "#skategoals",
+        "#trickprogression",
+        "#boltsapp"
+      ]
+    }
+  },
+  "topics": [
+    {
+      "id": "t01-remembering",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Progression",
+      "kicker": "The hard part isn't landing it",
+      "headline": "It's <span class=\"hl\">remembering</span><br>you landed it.",
+      "sub": "Six months of sessions blur together. A logged trick doesn't.",
+      "cta": "Track every trick",
+      "captionSeed": "Memory is the weakest part of progression. You land something clean on a Tuesday, and by the next month you genuinely can't remember whether you ever got it. Logging turns skating from a vibe into a record."
+    },
+    {
+      "id": "t02-one-trick-week",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "Learning a new trick",
+      "headline": "Three ways to<br>stop plateauing.",
+      "items": [
+        "Pick one trick for the week. Not five.",
+        "Log the attempts, not just the makes \u2014 that's where the pattern is.",
+        "Go back to the last trick you landed. Warm up on a win."
+      ],
+      "cta": "Free on the App Store",
+      "captionSeed": "Plateaus are usually a focus problem, not a talent problem. Spreading a session across five tricks means five tricks that all stay at 60%."
+    },
+    {
+      "id": "t03-session-numbers",
+      "pillar": "feature",
+      "layout": "feature",
+      "badge": "Feature",
+      "kicker": "Inside the app",
+      "headline": "Your session,<br><span class=\"hl\">by the numbers.</span>",
+      "sub": "Every trick sorted by type, difficulty and spot \u2014 automatically.",
+      "rows": [
+        {
+          "label": "Kickflip",
+          "value": "LANDED"
+        },
+        {
+          "label": "Heelflip",
+          "value": "3 tries"
+        },
+        {
+          "label": "Tre flip",
+          "value": "in progress"
+        }
+      ],
+      "cta": "Track every trick",
+      "captionSeed": "You log what you did. BOLTS handles the sorting \u2014 by trick type, by difficulty, by spot. The point is to see shape in your skating you'd otherwise miss."
+    },
+    {
+      "id": "t04-almost-had-it",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Progression",
+      "kicker": "Two words that hide real progress",
+      "headline": "\"Almost<br><span class=\"hl\">had it.\"</span>",
+      "sub": "Almost is a feeling. A logged attempt is data you can actually use.",
+      "cta": "Free on the App Store",
+      "captionSeed": "Every skater says it. The problem is 'almost' feels identical whether you're two sessions away or twenty. Attempts logged over time tell you which one it is."
+    },
+    {
+      "id": "t05-first-trick",
+      "pillar": "community",
+      "layout": "statement",
+      "badge": "Question",
+      "kicker": "Tell us in the comments",
+      "headline": "What was the<br><span class=\"hl\">first trick</span><br>you ever landed?",
+      "sub": "And roughly how long did it take you to get it?",
+      "cta": "Drop it below",
+      "captionSeed": "Everyone remembers the first one. Ollie, shuvit, boardslide \u2014 whatever it was, it's the trick that made you think you could actually do this."
+    },
+    {
+      "id": "t06-streaks",
+      "pillar": "feature",
+      "layout": "feature",
+      "badge": "Feature",
+      "kicker": "Inside the app",
+      "headline": "Streaks that<br><span class=\"hl\">actually mean</span> something.",
+      "sub": "Not screen time. Sessions skated.",
+      "rows": [
+        {
+          "label": "Current streak",
+          "value": "6 sessions"
+        },
+        {
+          "label": "Longest streak",
+          "value": "14 sessions"
+        },
+        {
+          "label": "This month",
+          "value": "22 tricks"
+        }
+      ],
+      "cta": "Track every trick",
+      "captionSeed": "Most streak counters reward opening an app. This one only moves when you actually skate."
+    },
+    {
+      "id": "t07-bad-session",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Real talk",
+      "kicker": "The session where nothing works",
+      "headline": "Log the<br><span class=\"hl\">bad ones</span> too.",
+      "sub": "A month later they're the context that makes the good ones make sense.",
+      "cta": "Free on the App Store",
+      "captionSeed": "Nobody wants to record a session where they landed nothing. But those are the sessions that explain the breakthrough three weeks later."
+    },
+    {
+      "id": "t08-warm-up",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "Session structure",
+      "headline": "How to open<br>a session.",
+      "items": [
+        "Roll for five minutes before you try anything.",
+        "Land three tricks you already own.",
+        "Then, and only then, go at the new one."
+      ],
+      "cta": "Track every trick",
+      "captionSeed": "Going straight at your hardest trick cold is how you burn a whole session and your ankles. Warm up on things you can already do."
+    },
+    {
+      "id": "t09-spots",
+      "pillar": "feature",
+      "layout": "feature",
+      "badge": "Feature",
+      "kicker": "Inside the app",
+      "headline": "Some tricks only<br><span class=\"hl\">work at one spot.</span>",
+      "sub": "Log where you landed it, and the pattern shows up fast.",
+      "rows": [
+        {
+          "label": "Local park",
+          "value": "31 tricks"
+        },
+        {
+          "label": "School ledges",
+          "value": "12 tricks"
+        },
+        {
+          "label": "Flat ground",
+          "value": "44 tricks"
+        }
+      ],
+      "cta": "Free on the App Store",
+      "captionSeed": "Tracking spots sounds trivial until you notice you've never once landed a trick anywhere but your home park. That's useful to know."
+    },
+    {
+      "id": "t10-goal-setting",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "Setting a trick goal",
+      "headline": "Make the goal<br>smaller.",
+      "items": [
+        "\"Land a kickflip\" is a season. \"Get the flick consistent\" is a session.",
+        "Break the trick into the part you're actually failing.",
+        "Give it a deadline you'd be slightly embarrassed to miss."
+      ],
+      "cta": "Track every trick",
+      "captionSeed": "Big trick goals stall because there's no way to tell if today went well. Shrink the goal until a single session can move it."
+    },
+    {
+      "id": "t11-consistency",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Progression",
+      "kicker": "Landing it once isn't landing it",
+      "headline": "You own a trick<br>when you can<br><span class=\"hl\">call it.</span>",
+      "sub": "One make is luck. Ten makes across three sessions is a trick.",
+      "cta": "Free on the App Store",
+      "captionSeed": "There's a gap between landing something and having it. The test is whether you can do it on demand, cold, in front of someone."
+    },
+    {
+      "id": "t12-hardest-trick",
+      "pillar": "community",
+      "layout": "statement",
+      "badge": "Question",
+      "kicker": "Settle it in the comments",
+      "headline": "Hardest trick<br>you've ever<br><span class=\"hl\">actually landed?</span>",
+      "sub": "No aspirational answers. Only ones you've genuinely got.",
+      "cta": "Drop it below",
+      "captionSeed": "Not the trick you're working on. The hardest one that's actually yours."
+    },
+    {
+      "id": "t13-no-account",
+      "pillar": "feature",
+      "layout": "statement",
+      "badge": "Feature",
+      "kicker": "No signup wall",
+      "headline": "Open it and<br><span class=\"hl\">start logging.</span>",
+      "sub": "No account, no email, no onboarding carousel. Free on iOS.",
+      "cta": "App Store link in bio",
+      "captionSeed": "You shouldn't have to make an account to write down that you landed a kickflip. Open BOLTS and log it."
+    },
+    {
+      "id": "t14-progress-invisible",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Progression",
+      "kicker": "Why skating feels flat",
+      "headline": "Progress is<br><span class=\"hl\">invisible</span><br>at this range.",
+      "sub": "Day to day it's noise. Across three months it's obvious.",
+      "cta": "Track every trick",
+      "captionSeed": "The reason skating feels like you're not improving is that you're sampling it daily. Zoom out to a season and the line is clear."
+    },
+    {
+      "id": "t15-relearn",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "Coming back after a break",
+      "headline": "Getting it back<br>after time off.",
+      "items": [
+        "Expect two sessions of feeling like a beginner. It passes.",
+        "Start from the trick you had most locked in, not the newest one.",
+        "Check your log \u2014 you've done this before, and it's written down."
+      ],
+      "cta": "Free on the App Store",
+      "captionSeed": "Time off is brutal on confidence more than ability. A log helps because it's proof you already did the hard part once."
+    },
+    {
+      "id": "t16-filming",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Real talk",
+      "kicker": "You don't need a full part",
+      "headline": "Most skating<br>never gets<br><span class=\"hl\">filmed.</span>",
+      "sub": "That doesn't mean it didn't count. Write it down instead.",
+      "cta": "Track every trick",
+      "captionSeed": "Not every session deserves a camera. But the tricks still happened, and they're still yours. A log is the low-effort version of a part."
+    },
+    {
+      "id": "t17-difficulty",
+      "pillar": "feature",
+      "layout": "feature",
+      "badge": "Feature",
+      "kicker": "Inside the app",
+      "headline": "Rate the trick,<br><span class=\"hl\">not the day.</span>",
+      "sub": "Difficulty tagging shows you what you're actually pushing.",
+      "rows": [
+        {
+          "label": "Hard",
+          "value": "4 landed"
+        },
+        {
+          "label": "Medium",
+          "value": "17 landed"
+        },
+        {
+          "label": "Easy",
+          "value": "39 landed"
+        }
+      ],
+      "cta": "Free on the App Store",
+      "captionSeed": "If almost everything in your log is easy, that's not a bad session \u2014 it's a signal about what you've been avoiding."
+    },
+    {
+      "id": "t18-skate-alone",
+      "pillar": "community",
+      "layout": "statement",
+      "badge": "Question",
+      "kicker": "Honest answers only",
+      "headline": "Do you skate<br>better <span class=\"hl\">alone</span><br>or with people?",
+      "sub": "And has that changed since you started?",
+      "cta": "Drop it below",
+      "captionSeed": "Some people need the push. Some people need nobody watching while they eat it forty times. Curious which way this lands."
+    },
+    {
+      "id": "t19-commit",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "The commitment problem",
+      "headline": "When you keep<br>bailing early.",
+      "items": [
+        "Roll slower than feels right. Speed is usually not the issue.",
+        "Land the trick rolling away in your head first, ten times.",
+        "Wear the pads. Commitment is cheaper when the fall is."
+      ],
+      "cta": "Track every trick",
+      "captionSeed": "Bailing isn't a physical failure, it's a decision your body makes a quarter second early. Reduce the cost of the fall and the decision changes."
+    },
+    {
+      "id": "t20-log-habit",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Progression",
+      "kicker": "Thirty seconds after you skate",
+      "headline": "Log it<br><span class=\"hl\">before</span><br>you drive home.",
+      "sub": "Do it in the car park. By tonight you'll have lost the detail.",
+      "cta": "Free on the App Store",
+      "captionSeed": "The window where you remember exactly what worked is about ten minutes wide. Log in the car park, not at midnight."
+    },
+    {
+      "id": "t21-milestone",
+      "pillar": "milestone",
+      "layout": "stat",
+      "badge": "Milestone",
+      "kicker": "REPLACE WITH REAL APP STORE CONNECT FIGURE",
+      "stat": "TBD",
+      "headline": "Placeholder milestone card.",
+      "sub": "Only publish this layout with a verified number.",
+      "cta": "App Store link in bio",
+      "captionSeed": "MILESTONE POSTS REQUIRE REAL DATA. Pull the figure from App Store Connect before using this template. Never estimate.",
+      "requiresRealData": true
+    },
+    {
+      "id": "t22-comparison",
+      "pillar": "progression",
+      "layout": "statement",
+      "badge": "Real talk",
+      "kicker": "The instagram problem",
+      "headline": "You're comparing<br>your session to<br>someone's <span class=\"hl\">best clip.</span>",
+      "sub": "Compare it to your own log from six months ago instead.",
+      "cta": "Track every trick",
+      "captionSeed": "Every clip you see is the one make out of ninety tries. The only fair comparison is you, earlier."
+    },
+    {
+      "id": "t23-trick-list",
+      "pillar": "tips",
+      "layout": "list",
+      "badge": "Tips",
+      "kicker": "Building a trick list",
+      "headline": "What to put on<br>your list.",
+      "items": [
+        "One trick you're close to. That's the session's work.",
+        "One trick that's clearly too hard. That's the direction.",
+        "One trick you already have. That's the warm-up and the confidence."
+      ],
+      "cta": "Free on the App Store",
+      "captionSeed": "A good trick list has three tiers, not fifteen entries. Close, far, and owned."
+    },
+    {
+      "id": "t24-why-built",
+      "pillar": "feature",
+      "layout": "statement",
+      "badge": "Behind it",
+      "kicker": "Why this exists",
+      "headline": "Built because<br>the notes app<br><span class=\"hl\">wasn't cutting it.</span>",
+      "sub": "One skater, one iOS app, no venture money.",
+      "cta": "App Store link in bio",
+      "captionSeed": "BOLTS started as a note on a phone that got too long to be useful. Turns out a lot of skaters have that same note."
+    }
+  ],
+  "state": {
+    "used": [
+      {
+        "topicId": "t01-remembering",
+        "date": "2026-09-09",
+        "asset": "out/2026-09-09-t01-remembering.png",
+        "note": "posted manually via Zernio; GitHub push unavailable this run"
+      }
+    ],
+    "note": "Each run appends {topicId, date, postId} here. Rotation picks the least-recently-used topic that isn't flagged requiresRealData."
+  }
+}
